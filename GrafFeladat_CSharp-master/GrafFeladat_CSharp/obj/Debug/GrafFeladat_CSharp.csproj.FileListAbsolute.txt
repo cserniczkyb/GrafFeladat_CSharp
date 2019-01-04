@@ -1,0 +1,7 @@
+D:\Barni\Visual Studio Itthon\GrafFeladat_CSharp-master\GrafFeladat_CSharp\bin\Debug\GrafFeladat_CSharp.exe.config
+D:\Barni\Visual Studio Itthon\GrafFeladat_CSharp-master\GrafFeladat_CSharp\bin\Debug\GrafFeladat_CSharp.exe
+D:\Barni\Visual Studio Itthon\GrafFeladat_CSharp-master\GrafFeladat_CSharp\bin\Debug\GrafFeladat_CSharp.pdb
+D:\Barni\Visual Studio Itthon\GrafFeladat_CSharp-master\GrafFeladat_CSharp\obj\Debug\GrafFeladat_CSharp.csprojAssemblyReference.cache
+D:\Barni\Visual Studio Itthon\GrafFeladat_CSharp-master\GrafFeladat_CSharp\obj\Debug\GrafFeladat_CSharp.csproj.CoreCompileInputs.cache
+D:\Barni\Visual Studio Itthon\GrafFeladat_CSharp-master\GrafFeladat_CSharp\obj\Debug\GrafFeladat_CSharp.exe
+D:\Barni\Visual Studio Itthon\GrafFeladat_CSharp-master\GrafFeladat_CSharp\obj\Debug\GrafFeladat_CSharp.pdb
